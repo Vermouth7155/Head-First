@@ -13,9 +13,6 @@ p {
   font-family: sans-serif;
   color: maroon;
 }
-em {
-  font-family: serif;
-}
 p.greentea {
   color: green;
 }
@@ -24,4 +21,10 @@ p.raspberry {
 }
 p.blueberry {
   color: purple;
+}
+blockquote.greentea, p.greentea {
+  color: green;
+}
+em {
+  font-family: serif;
 }
