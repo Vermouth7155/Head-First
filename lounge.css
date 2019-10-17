@@ -16,3 +16,18 @@ p {
 em {
   font-family: serif;
 }
+p {
+  color: black;
+}
+.greentea {
+  color: green;
+}
+p.greentea {
+  color: green;
+}
+p.raspberry {
+  color: blue;
+}
+p.blueberry {
+  color: purple;
+}
